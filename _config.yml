@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: biqiu
+SEOTitle: 比丘的左心房 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: shenshuaiwen@gmail.com
 description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "biqiu, jekyll, 比丘, 邱柏荧, android, XDA"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -19,11 +19,11 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#zhihu_username:     qiubaiying
+github_username:    biqiu_ssw
+facebook_username:  shenshuaiwen
+#jianshu_username:   e71990ada2fd
+twitter_username:   biqiu_ssw
 
 
 
@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 
-# Gems
+# Gems/plugins
 # from PR#40, to support local preview for Jekyll 3.0
 plugins: [jekyll-paginate]
 
@@ -103,7 +103,7 @@ friends: [
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google中国开发者",
+        href: "http://developers.googleblog.cn/"
     }
 ]
