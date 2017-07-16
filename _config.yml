@@ -6,7 +6,7 @@ email: shenshuaiwen@gmail.com
 description: "每个胜利背后都有许多尝试"
 keyword: "biqiu, jekyll, 比丘, android, XDA"
 url: "http://biqiu-ssw.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # 地址 例如填写jekyll则https://biqiu-ssw.github.io/jekyll
 github_repo: "https://github.com/biqiu-ssw/biqiu-ssw.github.io.git" # you code repository
 
 # Sidebar settings
@@ -18,7 +18,7 @@ sidebar-avatar: img/avatar.jpg      # 头像，用于`/` and `/about/`
 
 # 社交账号
 RSS: false
-weibo_username:    qiubaiying
+weibo_username:    
 zhihu_username:
 github_username:   biqiu-ssw
 facebook_username: shenshuaiwen
@@ -94,14 +94,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "XDA",
+        href: "https://www.xda-developers.com/"
     },{
         title: "Google中国开发者",
         href: "http://developers.googleblog.cn/"
