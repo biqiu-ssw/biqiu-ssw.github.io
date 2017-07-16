@@ -13,13 +13,13 @@ tags:
 
 #### 准备工作  
 1. 安装linux deploy，选择ubuntu16.04，arm64，目录/文件安装，具体请参考[linx deploy 部署-简书](http://www.jianshu.com/p/690e3e35a38f)  ，ssh一定要选，sftp要开启（便于使用，se文件管理器支持sftp）
-2. 配置java环境变量，下载java源代码包 [下载地址](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 架构请选择与部署的相同
+2. 配置java环境变量，下载java源代码包 [下载地址](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 架构请选择与部署的相同  
 ###### 配置环境变量 
 参考[ubuntu配置java](http://www.cnblogs.com/davidsky/archive/2013/06/01/3113310.html) 
 ![](http://ot6z44ono.bkt.clouddn.com/17-7-17/80152091.jpg)  
   
   
-profile (建议用se修改，vim太累😂😂😂)
+**profile (建议用se修改，vim太累😂😂😂)**
 ```
 # set jdk environment
 export JAVA_HOME=/opt/jdk1.8.0_131
